@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yoonseo%20Lee)
 
 ## Career
-* **Kakao Tech Bootcamp, Cloud Native Course** (Sep 2025 ~ )
+* **kakao tech bootcamp, Cloud Native Course 3rd** (Sep 2025 ~ )
 * **B.S. in Software, Gachon University** (Mar 2019 – Feb 2025)
 * **Gachon University SW Academy 4th** (Mar 2024 – Aug 2024)
 
