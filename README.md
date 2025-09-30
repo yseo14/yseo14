@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 * **kakao tech bootcamp, Cloud Native Course 3rd** (Sep 2025 ~ )
 * **B.S. in Software, Gachon University** (Mar 2019 – Feb 2025)
 * **Gachon University SW Academy 4th** (Mar 2024 – Aug 2024)
-* **Universial Makeus Challenge GCU Server Part(Spring Boot) 5th** (Sep 2023 - Feb 2024)
+* **University MakeUs Challenge GCU Server Part(Spring Boot) 5th** (Sep 2023 - Feb 2024)
 
 ## Awards
 * **ACK 2023 Paper Award** (Development of UWB-Based Indoor Navigation App)
