@@ -28,16 +28,21 @@ Here are some ideas to get you started:
 * **TOEIC Speaking – Advanced Low(160)** (Aug 2025)
 
 ## STACKS
+<p>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" width=auto height=23px/>
+</p>
 
+<p>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" width=auto height=23px/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=FFFFFF" width=auto height=23px/>
+</p>
 
+<p>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" width=auto height=23px/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+</p>
 
-
-
+<p>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-
+</p>
